@@ -9,3 +9,14 @@ C:\Users\Administrador\Documents\GitRegymatrix\almoxarifadoback\src\srcBackAlmox
 C:\Users\Administrador\Documents\GitRegymatrix\almoxarifadoback\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoDomain\obj\Debug\net6.0\refint\AlmoxarifadoDomain.dll
 C:\Users\Administrador\Documents\GitRegymatrix\almoxarifadoback\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoDomain\obj\Debug\net6.0\AlmoxarifadoDomain.pdb
 C:\Users\Administrador\Documents\GitRegymatrix\almoxarifadoback\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoDomain\obj\Debug\net6.0\ref\AlmoxarifadoDomain.dll
+C:\Users\fusion\Documents\GitHub\almoxarifadoback\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoDomain\bin\Debug\net6.0\AlmoxarifadoDomain.deps.json
+C:\Users\fusion\Documents\GitHub\almoxarifadoback\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoDomain\bin\Debug\net6.0\AlmoxarifadoDomain.dll
+C:\Users\fusion\Documents\GitHub\almoxarifadoback\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoDomain\bin\Debug\net6.0\AlmoxarifadoDomain.pdb
+C:\Users\fusion\Documents\GitHub\almoxarifadoback\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoDomain\obj\Debug\net6.0\AlmoxarifadoDomain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fusion\Documents\GitHub\almoxarifadoback\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoDomain\obj\Debug\net6.0\AlmoxarifadoDomain.AssemblyInfoInputs.cache
+C:\Users\fusion\Documents\GitHub\almoxarifadoback\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoDomain\obj\Debug\net6.0\AlmoxarifadoDomain.AssemblyInfo.cs
+C:\Users\fusion\Documents\GitHub\almoxarifadoback\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoDomain\obj\Debug\net6.0\AlmoxarifadoDomain.csproj.CoreCompileInputs.cache
+C:\Users\fusion\Documents\GitHub\almoxarifadoback\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoDomain\obj\Debug\net6.0\AlmoxarifadoDomain.dll
+C:\Users\fusion\Documents\GitHub\almoxarifadoback\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoDomain\obj\Debug\net6.0\refint\AlmoxarifadoDomain.dll
+C:\Users\fusion\Documents\GitHub\almoxarifadoback\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoDomain\obj\Debug\net6.0\AlmoxarifadoDomain.pdb
+C:\Users\fusion\Documents\GitHub\almoxarifadoback\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoDomain\obj\Debug\net6.0\ref\AlmoxarifadoDomain.dll

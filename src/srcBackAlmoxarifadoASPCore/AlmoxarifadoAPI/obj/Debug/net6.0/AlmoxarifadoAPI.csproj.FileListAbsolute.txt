@@ -70,3 +70,13 @@ C:\Users\Administrador\Documents\GitRegymatrix\almoxarifadoback\src\srcBackAlmox
 C:\Users\Administrador\Documents\GitRegymatrix\almoxarifadoback\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoAPI\obj\Debug\net6.0\ref\AlmoxarifadoAPI.dll
 C:\Users\Administrador\Documents\GitRegymatrix\almoxarifadoback\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoAPI\bin\Debug\net6.0\AlmoxarifadoServices.dll
 C:\Users\Administrador\Documents\GitRegymatrix\almoxarifadoback\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoAPI\bin\Debug\net6.0\AlmoxarifadoServices.pdb
+C:\Users\fusion\Documents\GitHub\almoxarifadoback\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoAPI\obj\Debug\net6.0\AlmoxarifadoAPI.csproj.AssemblyReference.cache
+C:\Users\fusion\Documents\GitHub\almoxarifadoback\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoAPI\obj\Debug\net6.0\AlmoxarifadoAPI.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\fusion\Documents\GitHub\almoxarifadoback\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoAPI\obj\Debug\net6.0\AlmoxarifadoAPI.AssemblyInfoInputs.cache
+C:\Users\fusion\Documents\GitHub\almoxarifadoback\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoAPI\obj\Debug\net6.0\AlmoxarifadoAPI.AssemblyInfo.cs
+C:\Users\fusion\Documents\GitHub\almoxarifadoback\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoAPI\obj\Debug\net6.0\AlmoxarifadoAPI.csproj.CoreCompileInputs.cache
+C:\Users\fusion\Documents\GitHub\almoxarifadoback\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoAPI\obj\Debug\net6.0\AlmoxarifadoAPI.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\fusion\Documents\GitHub\almoxarifadoback\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoAPI\obj\Debug\net6.0\AlmoxarifadoAPI.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\fusion\Documents\GitHub\almoxarifadoback\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoAPI\obj\Debug\net6.0\AlmoxarifadoAPI.dll
+C:\Users\fusion\Documents\GitHub\almoxarifadoback\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoAPI\obj\Debug\net6.0\refint\AlmoxarifadoAPI.dll
+C:\Users\fusion\Documents\GitHub\almoxarifadoback\src\srcBackAlmoxarifadoASPCore\AlmoxarifadoAPI\obj\Debug\net6.0\AlmoxarifadoAPI.pdb
